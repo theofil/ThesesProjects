@@ -7,8 +7,10 @@ The project is offered with co-supervision from Andreas Papaefstathiou, referenc
 ## Keywords
 
  * Beyond the standard model phenomenology
- * <a href="https://launchpad.net/mg5amcnlo">MadGraph5_aMC@NLO </a> <a href="https://herwig.hepforge.org">Herwig</a>
- * Linux, Latex
+ * <a href="https://launchpad.net/mg5amcnlo">MadGraph5_aMC@NLO </a> 
+ * <a href="https://herwig.hepforge.org">Herwig</a>
+ * Linux
+ * Latex
 
 ## Things to do first 
 Install <a href="https://launchpad.net/mg5amcnlo">MadGraph5_aMC@NLO </a> and <a href="https://herwig.hepforge.org">Herwig</a>, 
