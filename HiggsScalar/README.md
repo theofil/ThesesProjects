@@ -10,9 +10,9 @@ The project is offered with co-supervision from Andreas Papaefstathiou, referenc
  * <a href="https://launchpad.net/mg5amcnlo">MadGraph5_aMC@NLO </a> <a href="https://herwig.hepforge.org">Herwig</a>
  * Linux, Latex
 
-## Thigns to do first 
+## Things to do first 
 Install <a href="https://launchpad.net/mg5amcnlo">MadGraph5_aMC@NLO </a> and <a href="https://herwig.hepforge.org">Herwig</a>, 
-calculate for the cross section of neutral <a href="https://en.wikipedia.org/wiki/Drell–Yan_process">Drell-Yan</a> process @ <span>&#8730; s</span> = 27 TeV
+calculate for the cross section of neutral <a href="https://en.wikipedia.org/wiki/Drell–Yan_process">Drell-Yan</a> process @ <span>&#8730; s</span> = 27 TeV.
  
 
 
