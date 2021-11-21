@@ -68,7 +68,7 @@ The answer is that we can only simulate what we know it is there (i.e., <a href=
 and hypothesized <a href="https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model">beyond the standard model signals</a> we search for by using Monte Carlo generators such <a href="https://pythia.org">Pythia</a> and <a href="http://herwig.hepforge.org">Herwig</a>.
 Confronting LHC data with theory predictions is called "LHC physics analysis" and can have as a result an academic thesis or even a nobel prize if we get lucky  ;-)
 
-A real life example of data vs MC simulation is on Figure 3 from <a href="https://cms.cern/news/lhc-vector-boson-collider-0">this</a> physics analysis.
+A real life example of data vs MC simulation is on Figure 3 from <a href="https://cms.cern/news/lhc-vector-boson-collider">this</a> physics analysis.
 <br>
 Interested to join the LHC physics program ? 
 
