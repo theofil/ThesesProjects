@@ -3,6 +3,7 @@
 The project is on new scalar particles and their relations to the Higgs boson, in particular through processes at hadron colliders. In practice, one would learn how to install/run Monte Carlo event generators, which generate simulations of LHC or other collider events, and perform a phenomenological analysis of Monte Carlo events to obtain constraints on the Higgs-scalar interactions. A possible outcome of this would be to propose an analysis for the LHC or the Future Circular Collider that would be sensitive to the new scalar-Higgs boson interactions.
 
 The project is offered with co-supervision from Andreas Papaefstathiou, reference paper: <a href="https://arxiv.org/abs/2010.00597">JHEP05(2021)099</a>
+<a href="https://arxiv.org/abs/2010.00597"> https://arxiv.org/pdf/2108.11394.pdf </a>
 
 ## Keywords
 
