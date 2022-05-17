@@ -1,4 +1,3 @@
-
 # Introduction
 At the <a href="https://home.cern/science/accelerators/large-hadron-collider"> LHC</a>, 
 protons traveling almost with the speed of light are smashed together with other protons traveling with the same speed but in the opposite direction.
